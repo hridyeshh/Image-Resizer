@@ -2,6 +2,9 @@
 
 Image Resizer is a simple, browser-based application that allows users to upload images and resize them for various social media platforms or custom dimensions. This tool is perfect for quickly preparing images for different online uses without the need for complex image editing software.
 
+https://github.com/user-attachments/assets/53245cc9-d6a7-409a-88f2-cea245079010
+
+
 ## Features
 
 - Drag and drop image upload
@@ -17,8 +20,6 @@ Image Resizer is a simple, browser-based application that allows users to upload
 - Real-time image preview
 - One-click download of resized images
 
-
-https://github.com/user-attachments/assets/d5c4b782-786c-43f1-bc29-7ae1da782e14
 
 
 
